@@ -1,3 +1,6 @@
+
+#Calculadora basica en python 
+
 def sumar(numero1, numero2):
     resultado = numero1 + numero2
     print(f" El resultado de: {numero1} y {numero2} es: {resultado}")
